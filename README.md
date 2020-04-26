@@ -6,9 +6,6 @@ A PyTorch implementation of SRGAN. For more details, please read
 To set the conda environment, please use the following commands: 
 ```
 conda install pytorch torchvision -c pytorch
-```
-- opencv
-```
 conda install opencv
 ```
 
