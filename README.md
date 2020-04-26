@@ -39,19 +39,11 @@ Some useful command line parameters
 
 **Upscale Factor = 4**
 
-- BSD100_035(PSNR:32.3970; SSIM:0.8532)
-
-![BSD100_035](images/5.png)
-
 - Set14_011(PSNR:29.5974; SSIM:0.9034)
 
 ![Set14_011](images/6.png)
 
 - Set14_014(PSNR:25.1799; SSIM:0.7436)
-
-![Set14_014](images/7.png)
-
-- Urban100_060(PSNR:20.7729; SSIM:0.5235)
 
 ![Urban100_060](images/8.png)
 
